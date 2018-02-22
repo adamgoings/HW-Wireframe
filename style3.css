@@ -3,6 +3,8 @@ body {
   font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
   font-size: 18px;
   width: 960px;
+  position: relative;
+  left: 5%;
 }
 
 header {
